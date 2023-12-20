@@ -1,0 +1,2 @@
+aiogram~=2.22.2
+qrcode~=7.4.2
